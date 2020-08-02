@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="FHCTRP" />
+        <module name="FHC_TRP_LAST" />
       </profile>
     </annotationProcessing>
   </component>

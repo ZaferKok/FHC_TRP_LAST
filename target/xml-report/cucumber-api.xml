@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.787">
+<testcase classname="ApiCheck" name="Positive" time="6.695">
+<system-out><![CDATA[Given Change the 10th id information........................................passed
+And change the id number to 27..............................................passed
+And title to "Sdet".........................................................passed
+And Completed to false......................................................passed
+Then verify that all changes were applied...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
